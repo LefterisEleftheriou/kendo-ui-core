@@ -10376,7 +10376,7 @@ declare namespace kendo.ui {
         dataTitleField?: string;
         dataSource?: kendo.data.DataSource|any;
         eventTemplate?: string|Function;
-        dateformat?: string;
+        dateFormat?: string;
         eventHeight?: number;
         eventWidth?: number;
         navigatable?: boolean;
