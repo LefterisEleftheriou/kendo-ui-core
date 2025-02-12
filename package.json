@@ -70,7 +70,7 @@
     "postcss": "^8.4.6",
     "postcss-calc": "^8.2.3",
     "require-dir": "~0.3.0",
-    "rollup": "^2.75.6",
+    "rollup": "^2.79.2",
     "rollup-plugin-polyfill": "^4.0.0",
     "typescript": "2.3.4",
     "validate-commit-msg": "2.8.2",
